@@ -1,0 +1,16 @@
+@media (max-width: 1149px) {
+    .portfolio .clearfix {
+        margin: 0;
+    }
+    .portfolio .project {
+        width: calc(33.3333% - 30px);
+        margin: 15px;
+    }
+    .team .box figure {
+        width: 170px;
+        height: 170px;
+    }
+    .contact .form {
+        width: 90%;
+    }
+}
